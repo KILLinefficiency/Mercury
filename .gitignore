@@ -1,0 +1,5 @@
+google_key.txt
+*.pdf
+Certificate.typ
+node_modules
+__pycache__
